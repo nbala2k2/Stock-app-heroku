@@ -1,7 +1,7 @@
 # Stock-app Using Heroku
 
-#### **[Click here to go to website](https://balaji-stock-app.herokuapp.com/)**
-#### PS: username :- username | password :- password(all small)
+### **[Click here to go to website](https://balaji-stock-app.herokuapp.com/)**
+### PS: username :- username | password :- password(all small)
 
 * Stock Prediction is created using **`Dash`**. It runs on a website created using **`heroku`**
 * The predictor connects to **`Alpha Vantage`** a `web api`, containing the details of stocks
